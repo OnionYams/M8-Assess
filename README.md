@@ -7,3 +7,5 @@ Each file has more detailed ETL information regarding specifics on what was done
 A sample dataset merge can be found at the bottom of M8-Assess-Grp8-YAN.ipynb
 
 For group 6 with members Charlie Rehder, Jared Mindel, Mikhaela Anderson, Yansong Tang
+
+Our final analysis is in the "Census Data Analysis.ipynb" file.
